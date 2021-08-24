@@ -1,6 +1,6 @@
 {
 "jordan":[{"id":1, "nome":"Jordan", "telefone":"5532914256", "dataNasc":"03/02/2000", "sexo":"Masculino", "naturalidade":"Brasileiro", "estadoCivil":"Brasileiro", "profissao":"Desenvolvedor", "cidade":"Gergina", "bairro":"Tubaí", "enderecoResidencial":"Rua das Flores", "enderecoComercial":"Jardins", "diagClini":"Preguiça", "diagFisio":"Procrastinação" },
-          {"clientes": [{"jordan":{"id":1, "nome":"Jordan", "telefone":"5532914256", "dataNasc":"03/02/2000", "sexo":"Masculino", "naturalidade":"Brasileiro", "estadoCivil":"Brasileiro", "profissao":"Desenvolvedor", "cidade":"Gergina", "bairro":"Tubaí", "enderecoResidencial":"Rua das Flores", "enderecoComercial":"Jardins", "diagClini":"Preguiça", "diagFisio":"Procrastinação" }}]}
+          {"jordan":{"id":1, "nome":"Jordan", "telefone":"5532914256", "dataNasc":"03/02/2000", "sexo":"Masculino", "naturalidade":"Brasileiro", "estadoCivil":"Brasileiro", "profissao":"Desenvolvedor", "cidade":"Gergina", "bairro":"Tubaí", "enderecoResidencial":"Rua das Flores", "enderecoComercial":"Jardins", "diagClini":"Preguiça", "diagFisio":"Procrastinação" }},
           ],
 },
 
