@@ -10,6 +10,7 @@
   "jorge":[{"id":3, "nome":"Jorge", "telefone":"61985323174", "dataNasc":"23/02/2000", "sexo":"Masculino", "naturalidade":"Brasileiro", "estadoCivil":"Solteiro(a)", "profissao":"Desenvolvedor", "cidade":"Gergina", "bairro":"Tubaí", "enderecoResidencial":"Rua das Flores", "enderecoComercial":"Jardins", "diagClini":"Preguiça", "diagFisio":"Procrastinação" }],
   "rafael":[{"id":4, "nome":"Rafael", "telefone":"61985323685", "dataNasc":"06/02/2000", "sexo":"Masculino", "naturalidade":"Brasileiro", "estadoCivil":"Solteiro(a)", "profissao":"Desenvolvedor", "cidade":"Gergina", "bairro":"Tubaí", "enderecoResidencial":"Rua das Flores", "enderecoComercial":"Jardins", "diagClini":"Preguiça", "diagFisio":"Procrastinação" }],
   
-  "login": [{ "id": 1, "email":"jordan.gabrielbc@gmail.com", "senha":"1234"}]
+  "login":[{"id":1, "email":"jordan.gabrielbc@gmail.com", "senha":"1234"}],
+  
 }
 
