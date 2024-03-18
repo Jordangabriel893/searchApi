@@ -8,7 +8,190 @@
 "jordan":[{"id":1, "nome":"Jordan", "telefone":"61985329125", "dataNasc":"03/02/2000", "sexo":"Masculino", "naturalidade":"Brasileiro", "estadoCivil":"Solteiro(a)", "profissao":"Desenvolvedor", "cidade":"Gergina", "bairro":"Tubaí", "enderecoResidencial":"Rua das Flores", "enderecoComercial":"Jardins", "diagClini":"Preguiça", "diagFisio":"Procrastinação" }],
   "regina":[{"id":2, "nome":"Regina", "telefone":"61985322255", "dataNasc":"27/02/2000", "sexo":"Feminino", "naturalidade":"Brasileiro", "estadoCivil":"Solteiro(a)", "profissao":"Desenvolvedor", "cidade":"Gergina", "bairro":"Tubaí", "enderecoResidencial":"Rua das Flores", "enderecoComercial":"Jardins", "diagClini":"Preguiça", "diagFisio":"Procrastinação" }],
   "jorge":[{"id":3, "nome":"Jorge", "telefone":"61985323174", "dataNasc":"23/02/2000", "sexo":"Masculino", "naturalidade":"Brasileiro", "estadoCivil":"Solteiro(a)", "profissao":"Desenvolvedor", "cidade":"Gergina", "bairro":"Tubaí", "enderecoResidencial":"Rua das Flores", "enderecoComercial":"Jardins", "diagClini":"Preguiça", "diagFisio":"Procrastinação" }],
-  "login":[{"id":5, "email":"jordan.gabrielbc@gmail.com", "senha":1234}]
+  "login":[{"id":5, "email":"jordan.gabrielbc@gmail.com", "senha":1234}],
+
+  "carros":[
+    {
+        "id": 1,
+        "placa": "ABC1234",
+        "chassi": "ABC123456DEF78901",
+        "renavam": "12345678901",
+        "modelo": "Gol",
+        "marca": "Volkswagen",
+        "ano": 2020
+    },
+    {
+        "id": 2,
+        "placa": "XYZ5678",
+        "chassi": "XYZ987654DEF32109",
+        "renavam": "98765432109",
+        "modelo": "Civic",
+        "marca": "Honda",
+        "ano": 2019
+    },
+    {
+        "id": 3,
+        "placa": "QWE9012",
+        "chassi": "QWE098765RTY43210",
+        "renavam": "09876543210",
+        "modelo": "Corolla",
+        "marca": "Toyota",
+        "ano": 2021
+    },
+    {
+        "id": 4,
+        "placa": "DEF4567",
+        "chassi": "DEF123456GHI78901",
+        "renavam": "45678901234",
+        "modelo": "Fiesta",
+        "marca": "Ford",
+        "ano": 2018
+    },
+    {
+        "id": 5,
+        "placa": "JKL8901",
+        "chassi": "JKL567890MNO12345",
+        "renavam": "56789012345",
+        "modelo": "Onix",
+        "marca": "Chevrolet",
+        "ano": 2022
+    },
+    {
+        "id": 6,
+        "placa": "MNO2345",
+        "chassi": "MNO678901PQR34567",
+        "renavam": "67890123456",
+        "modelo": "Uno",
+        "marca": "Fiat",
+        "ano": 2017
+    },
+    {
+        "id": 7,
+        "placa": "PQR5678",
+        "chassi": "PQR901234STU67890",
+        "renavam": "90123456789",
+        "modelo": "HB20",
+        "marca": "Hyundai",
+        "ano": 2023
+    },
+    {
+        "id": 8,
+        "placa": "STU9012",
+        "chassi": "STU345678VWX90123",
+        "renavam": "34567890123",
+        "modelo": "Ka",
+        "marca": "Ford",
+        "ano": 2016
+    },
+    {
+        "id": 9,
+        "placa": "VWX3456",
+        "chassi": "VWX567890YZA23456",
+        "renavam": "56789012345",
+        "modelo": "Cruze",
+        "marca": "Chevrolet",
+        "ano": 2021
+    },
+    {
+        "id": 10,
+        "placa": "YZA6789",
+        "chassi": "YZA123456BCD78901",
+        "renavam": "12345678901",
+        "modelo": "Fit",
+        "marca": "Honda",
+        "ano": 2019
+    },
+    {
+        "id": 11,
+        "placa": "BCD1234",
+        "chassi": "BCD567890EFG12345",
+        "renavam": "56789012345",
+        "modelo": "Renegade",
+        "marca": "Jeep",
+        "ano": 2020
+    },
+    {
+        "id": 12,
+        "placa": "EFG5678",
+        "chassi": "EFG901234HIJ56789",
+        "renavam": "90123456789",
+        "modelo": "Tucson",
+        "marca": "Hyundai",
+        "ano": 2018
+    },
+    {
+        "id": 13,
+        "placa": "HIJ9012",
+        "chassi": "HIJ345678KLM90123",
+        "renavam": "34567890123",
+        "modelo": "HR-V",
+        "marca": "Honda",
+        "ano": 2022
+    },
+    {
+        "id": 14,
+        "placa": "KLM3456",
+        "chassi": "KLM789012NOP34567",
+        "renavam": "78901234567",
+        "modelo": "Fusion",
+        "marca": "Ford",
+        "ano": 2017
+    },
+    {
+        "id": 15,
+        "placa": "NOP6789",
+        "chassi": "NOP123456QRS89012",
+        "renavam": "12345678901",
+        "modelo": "Sandero",
+        "marca": "Renault",
+        "ano": 2019
+    },
+    {
+        "id": 16,
+        "placa": "QRS1234",
+        "chassi": "QRS567890TUV12345",
+        "renavam": "56789012345",
+        "modelo": "Compass",
+        "marca": "Jeep",
+        "ano": 2021
+    },
+    {
+        "id": 17,
+        "placa": "TUV5678",
+        "chassi": "TUV901234WXY67890",
+        "renavam": "90123456789",
+        "modelo": "Tracker",
+        "marca": "Chevrolet",
+        "ano": 2020
+    },
+    {
+        "id": 18,
+        "placa": "WXY9012",
+        "chassi": "WXY345678ZAB90123",
+        "renavam": "34567890123",
+        "modelo": "City",
+        "marca": "Honda",
+        "ano": 2018
+    },
+    {
+        "id": 19,
+        "placa": "ZAB3456",
+        "chassi": "ZAB789012CDE34567",
+        "renavam": "78901234567",
+        "modelo": "208",
+        "marca": "Peugeot",
+        "ano": 2017
+    },
+    {
+        "id": 20,
+        "placa": "CDE6789",
+        "chassi": "CDE123456FGH90123",
+        "renavam": "12345678901",
+        "modelo": "Renault",
+        "marca": "Kwid",
+        "ano": 2023
+    }
+],
   
 }
 
