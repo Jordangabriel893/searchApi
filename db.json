@@ -1,15 +1,4 @@
 {
-  "cadastros":[ 
-    {"id":1, "nome":"Jordan", "telefone":"61985329125", "dataNasc":"03/02/2000", "sexo":"Masculino", "naturalidade":"Brasileiro", "estadoCivil":"Solteiro(a)", "profissao":"Desenvolvedor", "cidade":"Gergina", "bairro":"Tubaí", "enderecoResidencial":"Rua das Flores", "enderecoComercial":"Jardins", "diagClini":"Preguiça", "diagFisio":"Procrastinação" },
-    {"id":2, "nome":"Regina", "telefone":"61985322255", "dataNasc":"27/02/2000", "sexo":"Feminino", "naturalidade":"Brasileiro", "estadoCivil":"Solteiro(a)", "profissao":"Desenvolvedor", "cidade":"Gergina", "bairro":"Tubaí", "enderecoResidencial":"Rua das Flores", "enderecoComercial":"Jardins", "diagClini":"Preguiça", "diagFisio":"Procrastinação" },
-    {"id":3, "nome":"Jorge", "telefone":"61985323174", "dataNasc":"23/02/2000", "sexo":"Masculino", "naturalidade":"Brasileiro", "estadoCivil":"Solteiro(a)", "profissao":"Desenvolvedor", "cidade":"Gergina", "bairro":"Tubaí", "enderecoResidencial":"Rua das Flores", "enderecoComercial":"Jardins", "diagClini":"Preguiça", "diagFisio":"Procrastinação" },
-    {"id":4, "nome":"Rafael", "telefone":"61985323685", "dataNasc":"06/02/2000", "sexo":"Masculino", "naturalidade":"Brasileiro", "estadoCivil":"Solteiro(a)", "profissao":"Desenvolvedor", "cidade":"Gergina", "bairro":"Tubaí", "enderecoResidencial":"Rua das Flores", "enderecoComercial":"Jardins", "diagClini":"Preguiça", "diagFisio":"Procrastinação" }],
-  
-"jordan":[{"id":1, "nome":"Jordan", "telefone":"61985329125", "dataNasc":"03/02/2000", "sexo":"Masculino", "naturalidade":"Brasileiro", "estadoCivil":"Solteiro(a)", "profissao":"Desenvolvedor", "cidade":"Gergina", "bairro":"Tubaí", "enderecoResidencial":"Rua das Flores", "enderecoComercial":"Jardins", "diagClini":"Preguiça", "diagFisio":"Procrastinação" }],
-  "regina":[{"id":2, "nome":"Regina", "telefone":"61985322255", "dataNasc":"27/02/2000", "sexo":"Feminino", "naturalidade":"Brasileiro", "estadoCivil":"Solteiro(a)", "profissao":"Desenvolvedor", "cidade":"Gergina", "bairro":"Tubaí", "enderecoResidencial":"Rua das Flores", "enderecoComercial":"Jardins", "diagClini":"Preguiça", "diagFisio":"Procrastinação" }],
-  "jorge":[{"id":3, "nome":"Jorge", "telefone":"61985323174", "dataNasc":"23/02/2000", "sexo":"Masculino", "naturalidade":"Brasileiro", "estadoCivil":"Solteiro(a)", "profissao":"Desenvolvedor", "cidade":"Gergina", "bairro":"Tubaí", "enderecoResidencial":"Rua das Flores", "enderecoComercial":"Jardins", "diagClini":"Preguiça", "diagFisio":"Procrastinação" }],
-  "login":[{"id":5, "email":"jordan.gabrielbc@gmail.com", "senha":1234}],
-
   "carros":[
     {
         "id": 1,
